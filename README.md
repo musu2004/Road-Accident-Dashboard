@@ -12,7 +12,7 @@ The **Road Accident Dashboard** provides a comprehensive visualization of key ro
 - **Objective**: Provide an overview of the total accidents and casualties reported over the year.
 - **Output**: Metrics include **total accidents**, **total casualties**, and a **year-on-year growth trend** for both.
 
-### 2️⃣ **Casualties by Vehicle Type**
+### 2️⃣ **Casualities by Vehicle Type**
 - **Objective**: Analyze fatal casualties by the type of vehicle involved.
 - **Output**: A **bar chart** depicting fatalities by vehicle types such as cars, trucks, motorcycles, and bicycles.
 
