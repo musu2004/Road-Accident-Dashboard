@@ -58,5 +58,5 @@ The **Road Accident Dashboard** provides a comprehensive visualization of key ro
 
 ### 🔹 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Road-Accident-Dashboard.git
+git clone https://github.com/musu2004/Road-Accident-Dashboard.git
 cd Road-Accident-Dashboard
