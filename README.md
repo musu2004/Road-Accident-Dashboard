@@ -3,8 +3,7 @@
 ## 📌 **Project Overview**
 The **Road Accident Dashboard** provides a comprehensive visualization of key road accident statistics across the UK. Built using **Tableau Desktop**, this dashboard is designed to help **transportation analysts, policymakers, and safety experts** understand accident trends, identify accident hotspots, and assess how various factors such as weather, road surfaces, and vehicle types influence the number of casualties. By leveraging this dashboard, organizations can make informed decisions to improve road safety and reduce accident rates.
 
-![Road Accident Dashboard](https://github.com/user-attachments/assets/7bce8de1-b2e4-41e0-b439-b789265e3f74)
-
+![Image](https://github.com/user-attachments/assets/36ef7169-2429-443d-8efe-06da1fde289c)
 ---
 
 ## 📊 **Key Features**
