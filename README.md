@@ -60,3 +60,15 @@ The **Road Accident Dashboard** provides a comprehensive visualization of key ro
 ```bash
 git clone https://github.com/musu2004/Road-Accident-Dashboard.git
 cd Road-Accident-Dashboard
+```
+
+### 🔹 **Step 2: Install Dependencies**
+Ensure **Tableau Desktop** is installed on your system.
+
+### 🔹 **Step 3: Load the Data**
+Open the Tableau workbook (`.twbx` file) and connect it to the provided dataset.
+
+### 🔹 **Step 4: Explore the Dashboard**
+Navigate through various charts and insights to analyze workforce trends.
+
+---
