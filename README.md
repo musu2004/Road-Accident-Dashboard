@@ -8,23 +8,23 @@ The **Road Accident Dashboard** provides a comprehensive visualization of key ro
 
 ## 📊 **Key Features**
 
-### 1️⃣ **Total Accidents & Casualties**
+### 1️⃣ **Total Accidents & Casualities**
 - **Objective**: Provide an overview of the total accidents and casualties reported over the year.
 - **Output**: Metrics include **total accidents**, **total casualties**, and a **year-on-year growth trend** for both.
 
-### 2️⃣ **Fatal Casualties by Vehicle Type**
+### 2️⃣ **Casualties by Vehicle Type**
 - **Objective**: Analyze fatal casualties by the type of vehicle involved.
 - **Output**: A **bar chart** depicting fatalities by vehicle types such as cars, trucks, motorcycles, and bicycles.
 
-### 3️⃣ **Accidents by Weather Condition**
+### 3️⃣ **Casualities by Weather Condition**
 - **Objective**: Understand how weather conditions affect accident rates.
 - **Output**: A **pie chart** breaking down fatal casualties by weather conditions, such as rain, snow, fog, and clear conditions.
 
-### 4️⃣ **Fatalities by Road Surface**
+### 4️⃣ **Casualities by Road Surface**
 - **Objective**: Assess the impact of road surface conditions on fatal accidents.
 - **Output**: A **donut chart** showing how accidents vary by road surface types (wet, dry, frosty, etc.).
 
-### 5️⃣ **Accidents by Location**
+### 5️⃣ **Casualities by Location**
 - **Objective**: Visualize accident locations across the UK.
 - **Output**: A **map visualization** displaying the distribution of fatal accidents across different regions of the UK.
 
